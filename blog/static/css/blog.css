@@ -17,6 +17,11 @@ font-family: 'Lobster', cursive;
 .date {
 color: #0000FF;
 background-color: blue;
+background-image: i
+border-style: double;
+border-color:lightblue;
+font-family: "Times New Roman", Times, Serif;
+font-style: italic;
 }
 
 .save {
@@ -28,12 +33,10 @@ width: 100%;
 .top-menu, .top-menu:hover, .top-menu:visited {
 color: #ffffff;
 float: right;
-font-size: 20pt;
-margin-right: 25px;
+font-size: 18px;
+margin-right: 25px 50px 75px 100px;
 }
-.post {
-margin-bottom: 80px;
-}
+
 .post h2 a, .post h2 a:visited {
 color: #000000;
 }

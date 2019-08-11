@@ -17,10 +17,9 @@ font-family: 'Lobster', cursive;
 .date {
 color: #0000FF;
 background-color: blue;
-background-image: C:\Users\tobi amos\Downloads("starfield-animated.gif");
-border-style: double;
+border-style: dotted;
 border-color:lightblue;
-font-family: "Times New Roman", Times, Serif;
+font-family: "Times New Roman", Times;
 font-style: normal;
 }
 

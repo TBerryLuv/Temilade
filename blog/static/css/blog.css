@@ -16,9 +16,9 @@ font-family: 'Lobster', cursive;
 }
 .date {
 color: #0000FF;
-background-color: blue;
+background-color: black;
 border-style: dotted;
-border-color:lightblue;
+border-color:transparent;
 font-family: "Times New Roman", Times;
 font-style: normal;
 }
